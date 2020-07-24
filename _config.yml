@@ -1,0 +1,4 @@
+# Where things are
+source              : .
+title: A Password generator
+description: A passowrd generator that can (sort of) function as a manager. 
